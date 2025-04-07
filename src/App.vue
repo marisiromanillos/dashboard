@@ -1,9 +1,9 @@
 <script setup lang="ts">
-import { RouterLink, RouterView } from 'vue-router'
+import charactersSimpsons from './components/charactersSimpsons.vue'
 </script>
 
 <template>
-  <div class="flex"></div>
+  <charactersSimpsons />
 </template>
 
 <style scoped></style>
