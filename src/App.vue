@@ -2,6 +2,8 @@
 import { RouterLink, RouterView } from 'vue-router'
 </script>
 
-<template></template>
+<template>
+  <div class="flex"></div>
+</template>
 
 <style scoped></style>
